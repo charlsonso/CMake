@@ -1,4 +1,6 @@
 # Help tools that honor '.gitignore' (redundant for Git itself).
+*.swp
+Help/guide/tutorial/*_build
 /.git
 
 /CMakeUserPresets.json
